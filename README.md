@@ -1,4 +1,4 @@
-# Discord 頻道機器人
+# Webhook創建工具
 
 一個使用 `discord.py` 開發的 Discord 機器人，支援透過斜線指令在指定分類中創建文字頻道和 Webhook。機器人提供兩個主要指令：`/set_category` 用於設置目標分類 ID，`/create_channel` 用於創建新的頻道和 Webhook。
 
